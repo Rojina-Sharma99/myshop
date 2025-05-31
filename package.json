@@ -1,0 +1,23 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "ecommerce application built with MERN stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rojina-Sharma99/myshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rojina-Sharma99/myshop/issues"
+  },
+  "homepage": "https://github.com/Rojina-Sharma99/myshop#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
